@@ -12,7 +12,7 @@ adanya tambahan tag "hr" yg tidak perlu
 * Tag "br" dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri
 
   perbedaan dari keduanya yang mencolok adalah kedua tag ini adalah pada jarak yang terbentuk.
-  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag <p> dan </p>
+  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag "br" , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag "p"
 
 ### 3. Apa perbedaan atribut title dan alt pada tag "img", berikan penjelasannya!
 
