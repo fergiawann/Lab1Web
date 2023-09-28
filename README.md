@@ -21,7 +21,7 @@ adanya tambahan tag "hr" yg tidak perlu
    
 ### 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
-Sebenarnya mengisi salah satunya atau keduanya juga tidak masalah, tepapi jika hanya ingin mengecilkan atau memperbesar gambar secara proporsional bisa isi salah satunya saja yaitu width, nanti heightnya akan menyesuaikan secara otomatis gambarnya.
+Sebenarnya mengisi salah satunya atau keduanya juga tidak masalah, tetapi jika hanya ingin mengecilkan atau memperbesar gambar secara proporsional bisa isi salah satunya saja yaitu width, nanti heightnya akan menyesuaikan secara otomatis gambarnya.
 kecuali memang ingin merubah secara spesifik terkait ukuran gambarnya bisa menggunakan keduanya.
 
 ### 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
