@@ -28,18 +28,18 @@ kecuali memang ingin merubah secara spesifik terkait ukuran gambarnya bisa mengg
 
 Atribut ini mempengaruhi cara halaman baru akan dibuka ketika tautan tersebut diklik, yg terjadi adalah:
 
-*_blank:
+* _blank:
 Ketika atribut target diatur ke "_blank", tautan akan membuka halaman baru dalam jendela atau tab baru (tergantung pada pengaturan peramban pengguna).
 Halaman baru ini tidak akan menggantikan atau menimpa halaman asal tempat tautan itu ditempatkan.
 
-*_self:
+* _self:
 Atribut target "_self" adalah nilai default jika atribut target tidak didefinisikan.
 Jika tautan menggunakan atribut "_self", halaman baru akan terbuka di jendela atau tab yang sama seperti halaman tempat tautan itu ditempatkan.
 
-*_top:
+* _top:
 Ketika atribut target diatur ke "_top", tautan akan membuka halaman baru dan menggantikan halaman paling atas atau paling tinggi dari hierarki jendela atau bingkai saat ini.
 Dengan kata lain, jika ada beberapa bingkai atau jendela, tautan akan memuat halaman baru di jendela atau bingkai teratas.
 
-*_parent:
+* _parent:
 Jika halaman web memiliki bingkai atau bingkai induk, atribut target "_parent" akan membuka halaman baru di bingkai yang mengandung tautan itu.
 Jika halaman web tidak menggunakan bingkai, maka _parent akan berperilaku seperti "_self" (membuka di jendela atau tab yang sama).
