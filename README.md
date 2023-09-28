@@ -6,7 +6,7 @@ error ketika terjadi kesalahan penulisan tag?
 
 adanya tambahan tag "hr" yg tidak perlu
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 
 * Tag "p" berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.
 * Tag "br" dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri
