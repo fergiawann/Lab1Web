@@ -21,4 +21,25 @@ adanya tambahan tag "hr" yg tidak perlu
    
 ### 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
+Sebenarnya mengisi salah satunya atau keduanya juga tidak masalah, tepapi jika hanya ingin mengecilkan atau memperbesar gambar secara proporsional bisa isi salah satunya saja yaitu width, nanti heightnya akan menyesuaikan secara otomatis gambarnya.
+kecuali memang ingin merubah secara spesifik terkait ukuran gambarnya bisa menggunakan keduanya.
+
 ### 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+Atribut ini mempengaruhi cara halaman baru akan dibuka ketika tautan tersebut diklik, yg terjadi adalah:
+
+*_blank:
+Ketika atribut target diatur ke "_blank", tautan akan membuka halaman baru dalam jendela atau tab baru (tergantung pada pengaturan peramban pengguna).
+Halaman baru ini tidak akan menggantikan atau menimpa halaman asal tempat tautan itu ditempatkan.
+
+*_self:
+Atribut target "_self" adalah nilai default jika atribut target tidak didefinisikan.
+Jika tautan menggunakan atribut "_self", halaman baru akan terbuka di jendela atau tab yang sama seperti halaman tempat tautan itu ditempatkan.
+
+*_top:
+Ketika atribut target diatur ke "_top", tautan akan membuka halaman baru dan menggantikan halaman paling atas atau paling tinggi dari hierarki jendela atau bingkai saat ini.
+Dengan kata lain, jika ada beberapa bingkai atau jendela, tautan akan memuat halaman baru di jendela atau bingkai teratas.
+
+*_parent:
+Jika halaman web memiliki bingkai atau bingkai induk, atribut target "_parent" akan membuka halaman baru di bingkai yang mengandung tautan itu.
+Jika halaman web tidak menggunakan bingkai, maka _parent akan berperilaku seperti "_self" (membuka di jendela atau tab yang sama).
