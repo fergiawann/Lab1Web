@@ -1,8 +1,7 @@
 # Lab1Web
 
 Jawab Pertanyaan Berikut
-### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
-error ketika terjadi kesalahan penulisan tag?
+### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
 adanya tambahan tag "hr" yg tidak perlu
 
@@ -20,8 +19,6 @@ adanya tambahan tag "hr" yg tidak perlu
 
 * Title Tag adalah balon teks yang muncul saat sebuah gambar disentuh kursor mouse tanpa diklik. Fungsinya juga sama, yaitu untuk memberi tahu robot mesin pencari tentang keberadaannya. Dan juga untuk memberi tahu pengunjung. 
    
-### 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
-proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+### 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
-### 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
-_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+### 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
