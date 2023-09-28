@@ -3,7 +3,7 @@
 Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
-adanya tambahan tag <hr> yg tidak perlu
+adanya tambahan tag "<hr>" yg tidak perlu
 
 3. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
