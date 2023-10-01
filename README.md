@@ -62,7 +62,14 @@ dan ini adalah tampilan dari navigasi dan halaman kedua yg baru kita buat
 ## Jawab Pertanyaan Berikut
 ### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-adanya tambahan tag "hr" yg tidak perlu
+Disini saya mencoba untuk menambahkan lagi tag di paragraf pertama untuk menimpa tag "mark", "i", "u", dan "b" untuk melihat hasilnya
+
+![ss15](https://github.com/fergiawann/Lab1Web/assets/115530180/02bf434b-c70f-482a-a46e-64ffdbbac948)
+
+Ternyata hasilnya bisa seperti yang bisa dilihat outputnya dibawah
+
+![ss16](https://github.com/fergiawann/Lab1Web/assets/115530180/18cc6e57-dfcc-4c23-97e7-f29e5ed7f172)
+
 
 ### 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 
