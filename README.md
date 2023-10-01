@@ -62,7 +62,7 @@ dan ini adalah tampilan dari navigasi dan halaman kedua yg baru kita buat
 ## Jawab Pertanyaan Berikut
 ### 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-Disini saya mencoba untuk menambahkan lagi tag di paragraf pertama untuk menimpa tag "mark", "i", "u", dan "b" untuk melihat hasilnya
+Disini saya mencoba untuk menambahkan lagi tag "i" di paragraf pertama untuk menimpa tag "mark", "i", "u", dan "b" untuk melihat hasilnya
 
 ![ss15](https://github.com/fergiawann/Lab1Web/assets/115530180/02bf434b-c70f-482a-a46e-64ffdbbac948)
 
